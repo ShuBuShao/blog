@@ -11,7 +11,7 @@ js 继承一共有 7 中方式:
 - ES6 继承
 
 用一张图可以说明几种继承方式之间的关系
-![image](https://github.com/shubushao/blog/master/image/extend.jpg)
+![image](https://github.com/ShuBuShao/blog/blob/master/image/extend.jpg)
 
 #### 原型链继承
 
