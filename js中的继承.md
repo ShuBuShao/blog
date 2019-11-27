@@ -79,7 +79,7 @@ console.log(stu2.hobbies); // music,reading,basketball
 
 缺点:
 
-- 函数也是引用类型, 每实例化一个子类, 都相当与吧函数也复制了一遍
+- 函数也是引用类型, 每实例化一个子类, 都相当与把函数也复制了一遍
 
 ```
 function Person(name, age) {
